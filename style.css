@@ -1,0 +1,144 @@
+.intro{
+    width: 30%;
+  margin:auto
+}
+
+
+.top{
+    background-color: rgb(177, 229, 237);
+}
+
+
+
+
+body{
+    margin: 0px;
+    text-align: center;
+    font-size: 90px;
+    color:black;
+    font-family: 'Shadows Into Light', cursive;
+   
+}
+
+ h1{
+    font-weight: bold;
+     color: rgba(20, 193, 223, 0.678);
+     margin-top: 50px;
+     margin-bottom: 0px;
+     /* padding-left: 500px; */
+     font-family: 'Charmonman',cursive;
+     font-size: 5.56rem;
+   
+
+}
+h2{
+    color:rgba(20, 193, 223, 0.678) ;
+}
+h3{
+    /* margin-top: 100px; */
+    color:rgba(20, 193, 223, 0.678) ;
+    /* margin-bottom: 100px; */
+    
+
+
+}
+ div{
+     /* padding-top: 50px;  */
+    /* background-color: rgb(201, 241, 241);
+     */
+    font-size: 20px;
+}
+.profile{
+    padding-top: 50px;
+}
+
+
+p{
+   
+    margin-top: 0px;
+    margin-bottom: 100px;
+    /* font-size: 2.5rem; */
+
+    /* padding-left: 540px;*/
+    line-height: 2em;
+
+} 
+.top_cloud{
+    position:relative;
+     left: 300px;
+}
+.bottom_cloud{
+    position:absolute ;
+left:200px;
+}
+.skill-row{
+    
+    width: 50%;
+    margin: 100px auto 100px auto;
+text-align: left;
+
+}
+.skill-img{
+    width: 25%;
+    float:left;
+    margin-right: 30px;
+    clear:left;
+}
+.chilli-img{
+    width: 25%;
+    float:right;
+    margin-left: 30px;
+}
+/* .codeclear-discription{
+    clear:left
+}
+.codeclear-discription2{
+    clear: right
+} */
+hr{
+    border-style: dotted;
+    border-bottom: none;
+    width: 3%;
+    margin:auto;
+    border-width:10px;
+}
+.contact-me{
+    width: 30%;
+    margin:auto;
+    margin-top: 40px;
+    margin-bottom: 64px;
+    
+}
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #ffdbff;
+    font-size: 20px;
+    background: #090a0a;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #52e3d2;
+    text-decoration: none;
+  }
+.bottom-section
+{
+    background-color: #52e3d2;
+    margin-bottom: 0%;
+}
+.chutiya{
+    margin-bottom: 0%;
+}
+a{
+    margin: 10px 20px;
+    text-decoration: none;
+    color: rgb(11, 19, 19);
+}
+
+a:hover{
+    color: aliceblue;
+}
